@@ -1,0 +1,26 @@
+{
+	"BehaviorControl":true,
+	"BehaviorMana":false,
+	"BehaviorRush":false,
+
+	"playaroundtraps":false,
+	"playaroundaoe":false,
+	"simulatePlacement":false,
+
+	"enfacehp":15,
+	"maxwide":3000,
+	"playaroundprob":50,
+	"playaroundprob2":80,
+
+	"enemyTurnMaxWide":40,
+	"enemyTurnMaxWideSecondTime":200,
+	"enemySecondTurnMaxWide":20,
+
+	"nextTurnMaxWide":20,
+	"nextTurnTotalBoards":200,
+
+	"concedeLvl":1,
+
+	"bigMobAttack":3,
+	"aggroboarder":11
+}

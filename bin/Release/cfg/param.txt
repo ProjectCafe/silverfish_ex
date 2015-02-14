@@ -1,0 +1,9 @@
+bigMobAttack:
+
+bigMobAttack comes only in account, if BehaviorControl is set to true.
+It determines, if a creature is a "big" one. If you set bigMobAttack to 3 (default value) all creatures >=3 are big creatures. This value is needed for some "value"-calculations
+
+aggroboarder:
+
+aggroboarder comes only in account, if BehaviorControl is set to true.
+When EnemyHeroHP + EnemyHeroArmor <= aggroboarder, the bot is more likely to go face.

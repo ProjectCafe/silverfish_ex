@@ -1,0 +1,10 @@
+C:\Users\gsben_000\Desktop\src\bin\Debug\silver_ex.dll
+C:\Users\gsben_000\Desktop\src\bin\Debug\silver_ex.pdb
+C:\Users\gsben_000\Desktop\src\bin\Debug\silver_ex.dll.CodeAnalysisLog.xml
+C:\Users\gsben_000\Desktop\src\bin\Debug\silver_ex.dll.lastcodeanalysissucceeded
+C:\Users\gsben_000\Desktop\src\bin\Debug\HSRangerLib.dll
+C:\Users\gsben_000\Desktop\src\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gsben_000\Desktop\src\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gsben_000\Desktop\src\obj\Debug\silver_ex.csprojResolveAssemblyReference.cache
+C:\Users\gsben_000\Desktop\src\obj\Debug\silver_ex.dll
+C:\Users\gsben_000\Desktop\src\obj\Debug\silver_ex.pdb
