@@ -43,7 +43,7 @@
       <HintPath>HSRangerLib.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>bin\Release\Newtonsoft.Json.dll</HintPath>
+      <HintPath>packages\Newtonsoft.Json.6.0.8\lib\net40\Newtonsoft.Json.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -1267,11 +1267,6 @@
     <Compile Include="Penalties\Pen_tt_010a.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ai\Settings.cs" />
-    <Compile Include="Properties\Settings.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTimeSharedInput>True</DesignTimeSharedInput>
-      <DependentUpon>Settings.settings</DependentUpon>
-    </Compile>
     <Compile Include="Silverfish.cs" />
     <Compile Include="ai\action.cs" />
     <Compile Include="ai\CardDB.cs" />
@@ -1286,10 +1281,6 @@
     <Compile Include="BotBase.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Properties\Settings.settings">
-      <Generator>SettingsSingleFileGenerator</Generator>
-      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
-    </None>
     <None Include="Resources\HRCustomClasses.json" />
     <None Include="packages.config" />
   </ItemGroup>
