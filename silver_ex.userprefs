@@ -1,13 +1,10 @@
 ﻿<Properties StartupItem="silver_ex.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ConfigReader.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="ConfigReader.cs" Line="54" Column="54" />
-      <File FileName="..\..\..\..\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets" Line="1" Column="1" />
-      <File FileName="Silverfish.cs" Line="1" Column="1" />
-      <File FileName="BotBase.cs" Line="1" Column="1" />
-      <File FileName="ai\MiniSimulator.cs" Line="1" Column="1" />
-      <File FileName="Properties\AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="ConfigReader.cs" Line="23" Column="23" />
+      <File FileName="Silverfish.cs" Line="24" Column="24" />
+      <File FileName="BotBase.cs" Line="3" Column="3" />
       <File FileName="packages.config" Line="1" Column="1" />
       <File FileName="Config.cs" Line="1" Column="1" />
     </Files>

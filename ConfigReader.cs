@@ -8,7 +8,7 @@ namespace silver
         /// <summary>
         /// Contains the configuration
         /// </summary>
-		public static Config cfg { get; set; }
+		public static Config cfg { get; internal set; }
 
         /// <summary>
         /// True, if the file was read before, otherwise false

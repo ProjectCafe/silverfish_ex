@@ -1,7 +1,0 @@
-/home/giesi/Schreibtisch/silverfish/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
-/home/giesi/Schreibtisch/silverfish/bin/Debug/silver_ex.dll.mdb
-/home/giesi/Schreibtisch/silverfish/bin/Debug/silver_ex.dll
-/home/giesi/Schreibtisch/silverfish/obj/Debug/silver_ex.dll
-/home/giesi/Schreibtisch/silverfish/obj/Debug/silver_ex.dll.mdb
-/home/giesi/Schreibtisch/silverfish/bin/Debug/HSRangerLib.dll
-/home/giesi/Schreibtisch/silverfish/bin/Debug/Newtonsoft.Json.dll
