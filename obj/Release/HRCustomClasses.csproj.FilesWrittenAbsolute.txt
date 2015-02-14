@@ -1,5 +1,0 @@
-/home/giesi/Schreibtisch/src/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
-/home/giesi/Schreibtisch/src/bin/Release/silver.dll
-/home/giesi/Schreibtisch/src/obj/Release/silver.dll
-/home/giesi/Schreibtisch/src/bin/Release/Newtonsoft.Json.dll
-/home/giesi/Schreibtisch/src/bin/Release/HSRangerLib.dll

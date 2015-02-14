@@ -1,5 +1,0 @@
-C:\Users\gsben_000\Desktop\src\bin\Release\silver.dll
-C:\Users\gsben_000\Desktop\src\bin\Release\HSRangerLib.dll
-C:\Users\gsben_000\Desktop\src\bin\Release\Newtonsoft.Json.dll
-C:\Users\gsben_000\Desktop\src\bin\Release\Newtonsoft.Json.xml
-C:\Users\gsben_000\Desktop\src\obj\Release\silver.dll
